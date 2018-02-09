@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Generate Thumbnail
  * Plugin URI:        http://wordpress.org/plugins/generate-thumbnail
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Generate Thumbnail allows you to generate all thumbnails at once without script timeouts on your server.
  * Version:           1.0.0
  * Author:            ThemeEgg
  * Author URI:        http://themeegg.com
